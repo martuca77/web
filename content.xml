@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026042717252254Z9U9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260427172522PT8GYE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA- ACTIVIDAD 2A</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marta Pérez Alonso</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777303516193</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mohcmhva-7xkxpgyaq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Descripción de la situación de aprendizaje: Realizar un video sobre las tendencias de moda sobre un lugar o una época en concreto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Descripción de la situación de aprendizaje: Realizar un video sobre las tendencias de moda sobre un lugar o una época en concreto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Descripción de la situación de aprendizaje: Realizar un video sobre las tendencias de moda sobre un lugar o una época en concreto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Descripción de la situación de aprendizaje: Realizar un video sobre las tendencias de moda sobre un lugar o una época en concreto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohcmhva-7xkxpgyaq</odePageId>
+      <odeBlockId>block-1775815769002-ls2s3rtdt</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohcmhva-7xkxpgyaq</odePageId>
+          <odeBlockId>block-1775815769002-ls2s3rtdt</odeBlockId>
+          <odeIdeviceId>idevice-1775815768999-uxygerl1n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9258%;"><strong>ETAPA EDUCATIVA Y NIVEL</strong></td>
+<td style="width: 49.9258%;"> 3º ESO</td>
+</tr>
+<tr>
+<td style="width: 49.9258%;"><strong>MATERIA</strong></td>
+<td style="width: 49.9258%;">Inglés, Geografía e Historia, Lengua  </td>
+</tr>
+<tr>
+<td style="width: 49.9258%;"><strong>AGRUPAMIENTOS</strong></td>
+<td style="width: 49.9258%;">Grupos heterogéneos- parejas</td>
+</tr>
+<tr>
+<td style="width: 49.9258%;"><strong>TEMPORALIZACIÓN</strong></td>
+<td style="width: 49.9258%;">10 sesiones</td>
+</tr>
+<tr>
+<td style="width: 49.9258%;"><strong>PRODUCTOS</strong></td>
+<td style="width: 49.9258%;">infografía y video</td>
+</tr>
+<tr>
+<td style="width: 49.9258%;"><strong>HERRAMIENTAS TECNOLÓGICAS</strong></td>
+<td style="width: 49.9258%;">programa para grabar videos y programa para la creación de infografía (Genially o Canva)</td>
+</tr>
+<tr>
+<td style="width: 49.9258%;"><br /></td>
+<td style="width: 49.9258%;"></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775815768999-uxygerl1n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9258%;\"><strong>ETAPA EDUCATIVA Y NIVEL</strong></td>\n<td style=\"width: 49.9258%;\"> 3º ESO</td>\n</tr>\n<tr>\n<td style=\"width: 49.9258%;\"><strong>MATERIA</strong></td>\n<td style=\"width: 49.9258%;\">Inglés, Geografía e Historia, Lengua  </td>\n</tr>\n<tr>\n<td style=\"width: 49.9258%;\"><strong>AGRUPAMIENTOS</strong></td>\n<td style=\"width: 49.9258%;\">Grupos heterogéneos- parejas</td>\n</tr>\n<tr>\n<td style=\"width: 49.9258%;\"><strong>TEMPORALIZACIÓN</strong></td>\n<td style=\"width: 49.9258%;\">10 sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 49.9258%;\"><strong>PRODUCTOS</strong></td>\n<td style=\"width: 49.9258%;\">infografía y video</td>\n</tr>\n<tr>\n<td style=\"width: 49.9258%;\"><strong>HERRAMIENTAS TECNOLÓGICAS</strong></td>\n<td style=\"width: 49.9258%;\">programa para grabar videos y programa para la creación de infografía (Genially o Canva)</td>\n</tr>\n<tr>\n<td style=\"width: 49.9258%;\"><br /></td>\n<td style=\"width: 49.9258%;\"></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohcmhvg-4zfgie96p</odePageId>
+  <odeParentPageId>page-mohcmhva-7xkxpgyaq</odeParentPageId>
+  <pageName>A) Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A) Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A) Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohcmhvg-4zfgie96p</odePageId>
+      <odeBlockId>block-1775817354886-ppocul6g7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohcmhvg-4zfgie96p</odePageId>
+          <odeBlockId>block-1775817354886-ppocul6g7</odeBlockId>
+          <odeIdeviceId>idevice-1775817354884-c64nmpxi3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje ha sido creada teniendo en cuenta los elementos del curriculo: se trabajan parte de los saberes básicos del nivel y se desarrollan  tanto las competencias clave como las específicas con lo que se espera que el alumnado haga uso de los saberes básicos y desarrolle las competencias específicas de la materia. </p>
+<p>Relación con los ODS: 4. Educación de calidad</p>
+<p>                                    5. Igualdad de género</p>
+<p>                                    12. Producción y consumo responsables</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775817354884-c64nmpxi3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje ha sido creada teniendo en cuenta los elementos del curriculo: se trabajan parte de los saberes básicos del nivel y se desarrollan  tanto las competencias clave como las específicas con lo que se espera que el alumnado haga uso de los saberes básicos y desarrolle las competencias específicas de la materia. </p>\n<p>Relación con los ODS: 4. Educación de calidad</p>\n<p>                                    5. Igualdad de género</p>\n<p>                                    12. Producción y consumo responsables</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohcmhvi-f9z6f2b1z</odePageId>
+  <odeParentPageId>page-mohcmhva-7xkxpgyaq</odeParentPageId>
+  <pageName>B)Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>B)Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>B)Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>B)Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohcmhvi-f9z6f2b1z</odePageId>
+      <odeBlockId>block-1775817728431-9cz2xi58m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohcmhvi-f9z6f2b1z</odePageId>
+          <odeBlockId>block-1775817728431-9cz2xi58m</odeBlockId>
+          <odeIdeviceId>idevice-1775817728430-kjptp81rm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 432px;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 33.2838%; text-align: center; height: 57px;">COMPETENCIAS ESPECÍFICAS</td>
+<td style="width: 33.2838%; height: 57px;">CRITERIOS DE EVALUACIÓN</td>
+<td style="width: 33.2838%; height: 57px;">DESCRIPTORES DEL PERFIL DE SALIDA</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 33.2838%; text-align: center; height: 57px;">1</td>
+<td style="width: 33.2838%; text-align: center; height: 57px;">1.1</td>
+<td style="width: 33.2838%; height: 57px;">CCL1.1, CP1, CP2, STEM1, CD1, CPSAA5</td>
+</tr>
+<tr style="height: 81px;">
+<td style="width: 33.2838%; text-align: center; height: 81px;">2</td>
+<td style="width: 33.2838%; text-align: center; height: 81px;">2.1, 2.2</td>
+<td style="width: 33.2838%; height: 81px;">CCL1, CP1, CP2, STEM1,CD2,CPSAA5, CE1, CCEC3</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 33.2838%; text-align: center; height: 57px;">3</td>
+<td style="width: 33.2838%; text-align: center; height: 57px;">3.1, 3.2</td>
+<td style="width: 33.2838%; height: 57px;">CCL5, CP1, CP2, STEM1, CPSAA3, CC3</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 33.2838%; text-align: center; height: 57px;">4</td>
+<td style="width: 33.2838%; text-align: center; height: 57px;">4.1, 4.2</td>
+<td style="width: 33.2838%; height: 57px;">CCL5, CP1, CP2, CP3, STEM1, CPSAA1, CPSAA3, CCEC1</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.2838%; text-align: center; height: 33px;">5</td>
+<td style="width: 33.2838%; text-align: center; height: 33px;">5.2, 5.3</td>
+<td style="width: 33.2838%; height: 33px;">CP2, STEM1, CD2, CPSAA1</td>
+</tr>
+<tr style="height: 57px;">
+<td style="width: 33.2838%; text-align: center; height: 57px;">6</td>
+<td style="width: 33.2838%; text-align: center; height: 57px;">6.1, 6.2, 6.3</td>
+<td style="width: 33.2838%; height: 57px;">CCL5, CP3, CPSAA1, CPSAA3, CC3, CCEC1</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.2838%; height: 33px;">SABERES BÁSICOS</td>
+<td style="height: 33px; width: 66.5676%;" colspan="2">
+<p>A. Comunicación<br />-Autoconfianza. El error como instrumento de mejora y propuesta de reparación.<br />-Estrategias básicas para la planificación, ejecución, control y reparación de la comprensión, la<br />producción y la coproducción de textos orales, escritos y multimodales.<br />-Conocimientos, destrezas y actitudes que permitan detectar y colaborar en actividades de mediación<br />en situaciones cotidianas sencillas.<br />- Funciones comunicativas de uso común adecuadas al ámbito y al contexto comunicativo: saludar y<br />despedirse, presentar y presentarse, describir personas, objetos, lugares, fenómenos y acontecimientos;<br />situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar<br />información sobre cuestiones cotidianas; dar y pedir instrucciones, consejos y órdenes; ofrecer, aceptar<br />y rechazar ayuda, proposiciones o sugerencias; expresar parcialmente el gusto o el interés y las<br />emociones; narrar acontecimientos pasados, describir situaciones presentes, y enunciar sucesos<br />futuros; realizar hipótesis y suposiciones; reformular y resumir.<br />- Modelos contextuales y géneros discursivos de uso común en la comprensión, producción y<br />coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios:<br />características y reconocimiento del contexto (participantes y situación), expectativas generadas por el<br />contexto; organización y estructuración según el género y la función textual.<br />-Unidades lingüísticas de uso común y significados asociados a dichas unidades tales como la<br />expresión de la entidad y sus propiedades, el espacio y las relaciones espaciales, el tiempo y las<br />relaciones temporales, relaciones lógicas habituales.<br />-Léxico de uso común y de interés para el alumnado relativo a la tarea.<br />- Patrones sonoros, acentuales, rítmicos y de entonación de uso común, y significados e intenciones<br />comunicativas generales asociadas a dichos patrones, específicamente los que se refieren a pronunciar<br />correctamente los sonidos vocálicos / æ /, / ʌ /.<br />- Convenciones ortográficas de uso común y significados e intenciones comunicativas asociados a los<br />formatos, patrones y elementos gráficos.<br />-Convenciones y estrategias conversacionales de uso común, en formato asíncrono, para iniciar,<br />mantener y terminar la comunicación, dar aclaraciones y explicaciones, reformular, comparar y<br />contrastar, resumir.<br />-Recursos para el aprendizaje y estrategias básicas de búsqueda de información: diccionarios, libros<br />de consulta, bibliotecas, recursos digitales e informáticos, etc.<br />- Respeto de la propiedad intelectual y derechos de autor sobre las fuentes consultadas y contenidos<br />utilizados.<br />-Herramientas analógicas y de uso común para la comprensión, producción y coproducción oral,<br />escrita y multimodal; y plataformas virtuales de interacción, cooperación y colaboración educativa<br />(aulas virtuales, videoconferencias, herramientas digitales colaborativas, etc.) para el aprendizaje, la<br />comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera.<br />B. Plurilingüismo<br />-Estrategias y técnicas para responder eficazmente y con niveles crecientes de fluidez, adecuación y<br />corrección a una necesidad comunicativa concreta, a pesar de las limitaciones derivadas del nivel de<br />competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio.<br />-Estrategias de uso común para identificar, organizar, retener, recuperar y utilizar creativamente<br />unidades lingüísticas (léxico, morfosintaxis, patrones sonoros, etc.) a partir de la comparación de las<br />lenguas y variedades que conforman el repertorio lingüístico personal.</p>
+<p>C. Interculturalidad<br />- La lengua extranjera como medio de comunicación interpersonal e internacional, fuente de<br />información y como herramienta de participación social y de enriquecimiento personal.<br />-Interés e iniciativa en la realización de intercambios comunicativos a través de diferentes medios con<br />hablantes o estudiantes de la lengua extranjera.<br />-Aspectos socioculturales y sociolingüísticos de uso común relativos a la vida cotidiana.<br />-Estrategias de uso común para entender y apreciar la diversidad lingüística, cultural y artística,<br />atendiendo a valores ecosociales y democráticos.<br />-Estrategias de uso común de detección y actuación ante usos discriminatorios del lenguaje verbal y<br />no verbal.<br /><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775817728430-kjptp81rm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 432px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">COMPETENCIAS ESPECÍFICAS</td>\n<td style=\"width: 33.2838%; height: 57px;\">CRITERIOS DE EVALUACIÓN</td>\n<td style=\"width: 33.2838%; height: 57px;\">DESCRIPTORES DEL PERFIL DE SALIDA</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">1</td>\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">1.1</td>\n<td style=\"width: 33.2838%; height: 57px;\">CCL1.1, CP1, CP2, STEM1, CD1, CPSAA5</td>\n</tr>\n<tr style=\"height: 81px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 81px;\">2</td>\n<td style=\"width: 33.2838%; text-align: center; height: 81px;\">2.1, 2.2</td>\n<td style=\"width: 33.2838%; height: 81px;\">CCL1, CP1, CP2, STEM1,CD2,CPSAA5, CE1, CCEC3</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">3</td>\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">3.1, 3.2</td>\n<td style=\"width: 33.2838%; height: 57px;\">CCL5, CP1, CP2, STEM1, CPSAA3, CC3</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">4</td>\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">4.1, 4.2</td>\n<td style=\"width: 33.2838%; height: 57px;\">CCL5, CP1, CP2, CP3, STEM1, CPSAA1, CPSAA3, CCEC1</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 33px;\">5</td>\n<td style=\"width: 33.2838%; text-align: center; height: 33px;\">5.2, 5.3</td>\n<td style=\"width: 33.2838%; height: 33px;\">CP2, STEM1, CD2, CPSAA1</td>\n</tr>\n<tr style=\"height: 57px;\">\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">6</td>\n<td style=\"width: 33.2838%; text-align: center; height: 57px;\">6.1, 6.2, 6.3</td>\n<td style=\"width: 33.2838%; height: 57px;\">CCL5, CP3, CPSAA1, CPSAA3, CC3, CCEC1</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.2838%; height: 33px;\">SABERES BÁSICOS</td>\n<td style=\"height: 33px; width: 66.5676%;\" colspan=\"2\">\n<p>A. Comunicación<br />-Autoconfianza. El error como instrumento de mejora y propuesta de reparación.<br />-Estrategias básicas para la planificación, ejecución, control y reparación de la comprensión, la<br />producción y la coproducción de textos orales, escritos y multimodales.<br />-Conocimientos, destrezas y actitudes que permitan detectar y colaborar en actividades de mediación<br />en situaciones cotidianas sencillas.<br />- Funciones comunicativas de uso común adecuadas al ámbito y al contexto comunicativo: saludar y<br />despedirse, presentar y presentarse, describir personas, objetos, lugares, fenómenos y acontecimientos;<br />situar eventos en el tiempo; situar objetos, personas y lugares en el espacio; pedir e intercambiar<br />información sobre cuestiones cotidianas; dar y pedir instrucciones, consejos y órdenes; ofrecer, aceptar<br />y rechazar ayuda, proposiciones o sugerencias; expresar parcialmente el gusto o el interés y las<br />emociones; narrar acontecimientos pasados, describir situaciones presentes, y enunciar sucesos<br />futuros; realizar hipótesis y suposiciones; reformular y resumir.<br />- Modelos contextuales y géneros discursivos de uso común en la comprensión, producción y<br />coproducción de textos orales, escritos y multimodales, breves y sencillos, literarios y no literarios:<br />características y reconocimiento del contexto (participantes y situación), expectativas generadas por el<br />contexto; organización y estructuración según el género y la función textual.<br />-Unidades lingüísticas de uso común y significados asociados a dichas unidades tales como la<br />expresión de la entidad y sus propiedades, el espacio y las relaciones espaciales, el tiempo y las<br />relaciones temporales, relaciones lógicas habituales.<br />-Léxico de uso común y de interés para el alumnado relativo a la tarea.<br />- Patrones sonoros, acentuales, rítmicos y de entonación de uso común, y significados e intenciones<br />comunicativas generales asociadas a dichos patrones, específicamente los que se refieren a pronunciar<br />correctamente los sonidos vocálicos / æ /, / ʌ /.<br />- Convenciones ortográficas de uso común y significados e intenciones comunicativas asociados a los<br />formatos, patrones y elementos gráficos.<br />-Convenciones y estrategias conversacionales de uso común, en formato asíncrono, para iniciar,<br />mantener y terminar la comunicación, dar aclaraciones y explicaciones, reformular, comparar y<br />contrastar, resumir.<br />-Recursos para el aprendizaje y estrategias básicas de búsqueda de información: diccionarios, libros<br />de consulta, bibliotecas, recursos digitales e informáticos, etc.<br />- Respeto de la propiedad intelectual y derechos de autor sobre las fuentes consultadas y contenidos<br />utilizados.<br />-Herramientas analógicas y de uso común para la comprensión, producción y coproducción oral,<br />escrita y multimodal; y plataformas virtuales de interacción, cooperación y colaboración educativa<br />(aulas virtuales, videoconferencias, herramientas digitales colaborativas, etc.) para el aprendizaje, la<br />comunicación y el desarrollo de proyectos con hablantes o estudiantes de la lengua extranjera.<br />B. Plurilingüismo<br />-Estrategias y técnicas para responder eficazmente y con niveles crecientes de fluidez, adecuación y<br />corrección a una necesidad comunicativa concreta, a pesar de las limitaciones derivadas del nivel de<br />competencia en la lengua extranjera y en las demás lenguas del repertorio lingüístico propio.<br />-Estrategias de uso común para identificar, organizar, retener, recuperar y utilizar creativamente<br />unidades lingüísticas (léxico, morfosintaxis, patrones sonoros, etc.) a partir de la comparación de las<br />lenguas y variedades que conforman el repertorio lingüístico personal.</p>\n<p>C. Interculturalidad<br />- La lengua extranjera como medio de comunicación interpersonal e internacional, fuente de<br />información y como herramienta de participación social y de enriquecimiento personal.<br />-Interés e iniciativa en la realización de intercambios comunicativos a través de diferentes medios con<br />hablantes o estudiantes de la lengua extranjera.<br />-Aspectos socioculturales y sociolingüísticos de uso común relativos a la vida cotidiana.<br />-Estrategias de uso común para entender y apreciar la diversidad lingüística, cultural y artística,<br />atendiendo a valores ecosociales y democráticos.<br />-Estrategias de uso común de detección y actuación ante usos discriminatorios del lenguaje verbal y<br />no verbal.<br /><br /></p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohcmhvj-7w6plb2st</odePageId>
+  <odeParentPageId>page-mohcmhva-7xkxpgyaq</odeParentPageId>
+  <pageName>C) Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>C) Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>C) Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>C) Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohcmhvj-7w6plb2st</odePageId>
+      <odeBlockId>block-1775818447994-nn057xaly</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohcmhvj-7w6plb2st</odePageId>
+          <odeBlockId>block-1775818447994-nn057xaly</odeBlockId>
+          <odeIdeviceId>idevice-1775818447991-fw8acm7qb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Aprendizaje basado en proyectos</p>
+<p>- Aprendizaje cooperativo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775818447991-fw8acm7qb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Aprendizaje basado en proyectos</p>\n<p>- Aprendizaje cooperativo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohcmhvl-8visz6kbm</odePageId>
+  <odeParentPageId>page-mohcmhva-7xkxpgyaq</odeParentPageId>
+  <pageName>D) Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>D) Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>D) Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohcmhvl-8visz6kbm</odePageId>
+      <odeBlockId>block-1775818489005-29n54a90o</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohcmhvl-8visz6kbm</odePageId>
+          <odeBlockId>block-1775818489005-29n54a90o</odeBlockId>
+          <odeIdeviceId>idevice-1775818489004-ijnf7stxg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>- Programa PLEI</p>
+<p>- Programa Digitalización</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775818489004-ijnf7stxg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Programa PLEI</p>\n<p>- Programa Digitalización</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohcmhvm-ro6maxm1z</odePageId>
+  <odeParentPageId>page-mohcmhva-7xkxpgyaq</odeParentPageId>
+  <pageName>E) Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>E) Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>E) Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mohcmhvm-ro6maxm1z</odePageId>
+      <odeBlockId>block-1775818549814-cl7mhn1cs</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mohcmhvm-ro6maxm1z</odePageId>
+          <odeBlockId>block-1775818549814-cl7mhn1cs</odeBlockId>
+          <odeIdeviceId>idevice-1775818549812-3vvt92130</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Viaje cultural a York</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775818549812-3vvt92130","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Viaje cultural a York</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mohcmhvn-etl4vxypz</odePageId>
+  <odeParentPageId>page-mohcmhva-7xkxpgyaq</odeParentPageId>
+  <pageName>F) Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>F) Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>F) Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
